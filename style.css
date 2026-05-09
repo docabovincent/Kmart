@@ -78,7 +78,7 @@
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
         margin: auto;
-        gap: 70px;
+        gap: 60px;
     }
 
     .content .product-box{
